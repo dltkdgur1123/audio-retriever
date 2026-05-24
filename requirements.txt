@@ -229,7 +229,7 @@ python-magic
 python-multipart
 python-oxmsg
 pytz
-pywin32
+
 pywinpty
 PyYAML
 pyzmq
