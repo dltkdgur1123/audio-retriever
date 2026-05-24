@@ -216,7 +216,6 @@ pypdf
 pypdfium2
 PyPika
 pyproject_hooks
-pyreadline3
 pytest
 pytest-asyncio
 pytest-socket
@@ -229,8 +228,6 @@ python-magic
 python-multipart
 python-oxmsg
 pytz
-
-pywinpty
 PyYAML
 pyzmq
 RapidFuzz
